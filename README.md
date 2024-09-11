@@ -29,9 +29,9 @@
 ### 1. <a href="https://github.com/Hubdarkweb/Queen_Anita-V1/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork Queen_Anita-V1" width="70"></a>
 ## `Generate Pair Code For Session`
  
-[`Badboi-v2 Pairing Using Render`](https://badboi.onrender.com/)
+[`Pairing Using Render`](https://.onrender.com/)
 
-[`Badboi-v2 Pairing using Replit`](https://replit.com/@samjame088/Xeon-PairCode-1)
+[`Pairing using Replit`](https://Xeon-PairCode-1)
 
 
 ### . <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
