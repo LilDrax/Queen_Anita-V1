@@ -195,13 +195,13 @@ npm i -g forever && forever index.js && forever save && forever logs
 
  - [ Click ](https://youtube.com/@Cyberpunk-k2i?si=1_Ae2h9Kl9IbAo7E)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='[https://i.imgur.com/dVaLQHq.jpeg]'/></a><a><img src='[https://i.imgur.com/jVSZVU6.jpeg]'/></a>
 
-## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
+## ```Connect With Me```<img src="https://i.imgur.com/dVaLQHq.jpeg" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/254112386921"><img src="https://img.shields.io/badge/Contact BADBOI-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/254112386921"><img src="https://img.shields.io/badge/Contact TOpPLUG🗽-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://t.me/Hub7s"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=telegram&logoColor=blue" />
    
 <a href='https://t.me/Hub7s' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=blue&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
 
@@ -216,7 +216,7 @@ npm i -g forever && forever index.js && forever save && forever logs
   </div>
   <div align="center">
   
-| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/Anime-King01.png?size=150)](https://github.com/Hubdarkweb) |
+| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/Hubdarkweb.png?size=150)](https://github.com/Hubdarkweb) |
 |----|
 | [  Lord No Name](https://github.com/Hubdarkweb) |
 |  Co-Developer |
